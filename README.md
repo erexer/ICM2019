@@ -1,1 +1,2 @@
 # ICM2019
+Problem E: Your ICM team has been hired to create an ecological services valuation model to understand the true economic costs of land use projects when ecosystem services are considered. Use your model to perform a cost benefit analysis of land use development projects of varying sizes, from small community-based projects to large national projects. Evaluate the effectiveness of your model based on your analyses and model design. What are the implications of your modeling on land use project planners and managers? How might your model need to change over time?
