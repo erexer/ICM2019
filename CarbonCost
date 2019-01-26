@@ -1,0 +1,5 @@
+def carbon_cost(project_area, electricity_cost):
+    a = 48*22730*450*4184
+    b = 2.205*1.98*556.2
+    
+    return (a/b)*project_area*electricity_cost
